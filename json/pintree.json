@@ -1,7 +1,7 @@
 [
   {
     "type": "folder",
-    "addDate": 1726989089705,
+    "addDate": 1730098523237,
     "title": "收藏夹栏",
     "children": [
       {
@@ -1770,6 +1770,13 @@
                 "title": "Planet Minecraft Community",
                 "icon": "https://logo.clearbit.com/www.planetminecraft.com",
                 "url": "https://www.planetminecraft.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1735651937991,
+                "title": "Modrinth",
+                "icon": "https://logo.clearbit.com/modrinth.com",
+                "url": "https://modrinth.com/"
               }
             ]
           },
@@ -3174,6 +3181,13 @@
             "url": "https://www.bookstack.cn/read/xieyanzu-oracle_textbook/spilt.4.chapters-d3z.md"
           }
         ]
+      },
+      {
+        "type": "link",
+        "addDate": 1730024041735,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/klyingsys.github.io",
+        "url": "https://klyingsys.github.io/pintree/"
       }
     ]
   }
